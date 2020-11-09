@@ -1,4 +1,4 @@
 flask
-flask_restplus
+flask-restplus
 pytest
 gunicorn
