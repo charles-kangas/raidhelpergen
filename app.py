@@ -4,8 +4,8 @@ from typing import List
 from flask import Flask
 from flask_restplus import Api, Resource
 
-flask_app = Flask(__name__)
-api = Api(flask_app)
+app = Flask(__name__)
+api = Api(app)
 
 
 @api.route('/form-cmd<string:event_id>/<string:user_csv>')
@@ -42,4 +42,4 @@ def create_raid_helper_cmd(event_id: str, user_csv: str) -> str:
 
 
 if __name__ == '__main__':
-    flask_app.run(debug=True)
+    app.run(debug=True)
