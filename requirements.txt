@@ -2,4 +2,3 @@ flask
 flask-restplus
 pytest
 gunicorn
-Werkzeug==0.16.1

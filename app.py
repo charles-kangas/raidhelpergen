@@ -1,6 +1,9 @@
 from roles import USER_ROLES
 from typing import List
 
+import werkzeug
+werkzeug.cached_property = werkzeug.utils.cached_property
+
 from flask import Flask
 from flask_restplus import Api, Resource
 
