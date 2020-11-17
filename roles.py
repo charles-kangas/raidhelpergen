@@ -17,7 +17,7 @@ USER_ROLES = {
     "Retribution": ["Heem"],
 
     # Priests
-    "Holy": ["Zilf", "Astaniss"],
+    "Holy": ["Zilf", "Astaniss", "Ipo"],
     "Shadow": ["Criddy", "Melty", "Deathbite"],
 
     # Hunters
