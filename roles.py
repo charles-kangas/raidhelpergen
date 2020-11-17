@@ -1,6 +1,6 @@
 USER_ROLES = {
     # Rogues
-    "Combat": ["Doom", "TommySalami", "Muggsyrogue"],
+    "Combat": ["Doom", "Tommy Salami", "Muggsyrogue"],
 
     # Warriors
     "Fury": ["Gluchy", "Mahomes", "Titan"],
