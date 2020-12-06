@@ -25,9 +25,10 @@ USER_ROLES = {
     "Survival": ["Bariz"],
 
     # Shamans
-    "Elemental": ["Mole", "Czaraza"],
-    "Restoration1": ["Remdesivir", "Deepakchopra", "Killersweets", "Pralinka"],
-
+    "Elemental": ["Killersweets"],
+    "Restoration1": ["Remdesivir", "Deepakchopra", "Pralinka"],
+    "Enhancement": ["Czaraza"],
+    
     # Warlocks
     "Affliction": ["Pookin"],
     "Destruction": ["Chucktar", "Boaz"],
