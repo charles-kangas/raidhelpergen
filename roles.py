@@ -8,7 +8,7 @@ USER_ROLES = {
 
     # Druids
     "Guardian": ["Masque"],
-    "Restoration": ["Bujsaim"],
+    "Restoration": ["Bujsaim", "Shiftur"],
     "Balance": ["Drink"],
 
     # Paladins
